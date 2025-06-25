@@ -7,28 +7,28 @@ const categories = [
     id: "fruits",
     name: "Fruits",
     count: 6,
-    image: "/assets/fruits.png",
+    image: "/genral_images/fruits.png",
     bgColor: "bg-yellow-50"
   },
   {
     id: "fresh_nuts",
     name: "Fresh Nuts",
     count: 5,
-    image: "/assets/fresh_nuts.png",
+    image: "/genral_images/fresh_nuts.png",
     bgColor: "bg-green-50"
   },
   {
     id: "vegetables",
     name: "Vegetables",
     count: 4,
-    image: "/assets/vegetables.png",
+    image: "/genral_images/vegetables.png",
     bgColor: "bg-rose-50"
   },
   {
     id: "spices",
     name: "Spices",
     count: 4,
-    image: "/assets/spices.png",
+    image: "/genral_images/spices.png",
     bgColor: "bg-blue-50"
   }
 ];

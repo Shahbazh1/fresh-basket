@@ -6,19 +6,19 @@ const testimonials = [
     name: "Ayesha Khan",
     message:
       "The vegetables are always fresh and delivered right on time. I love knowing where my food comes from!",
-    image: "/assets/review-3.jpg",
+    image: "/genral_images/review-3.jpg",
   },
   {
     name: "Ali Raza",
     message:
       "Absolutely love the quality and taste of the products. Highly recommend for anyone looking for organic options.",
-    image: "/assets/review-2.jpg",
+    image: "/genral_images/review-2.jpg",
   },
   {
     name: "Fatima Noor",
     message:
       "Their service is amazing and packaging is eco-friendly. I always look forward to my weekly delivery!",
-    image: "/assets/review-1.jpg",
+    image: "/genral_images/review-1.jpg",
   },
 ];
 

@@ -95,7 +95,7 @@ const Home = () => {
           transition={{ duration: 1.2 }}
         >
           <img
-            src="/assets/basket.png"
+            src="/genral_images/basket.png"
             alt="Fresh vegetables basket"
             className="w-full max-w-sm rounded-xl z-10"
           />

@@ -38,7 +38,7 @@ const AboutDetail = () => {
         </motion.p>
 
         <motion.img
-          src="/assets/farmer.webp"
+          src="genral_images/farmer.webp"
           alt="Our Farmers"
           className="w-full rounded-lg mt-6 shadow"
           initial={{ opacity: 0 }}

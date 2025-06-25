@@ -11,12 +11,12 @@ import Species from "../data/Spices";
 import Cart from "./Cart";
 
 const CATEGORIES = [
-  { id: "fruits", name: "Fruits", image: "/assets/fruits.png" },
-  { id: "vegetables", name: "Vegetables", image: "/assets/vegetables.png" },
-  { id: "fresh_nuts", name: "Fresh Nuts", image: "/assets/fresh_nuts.png" },
-  { id: "species", name: "Species", image: "/assets/spices.png" },
-  { id: "dairy", name: "Dairy", image: "/assets/dairy.png" },
-  { id: "meat", name: "Meat", image: "/assets/meat.png" },
+  { id: "fruits", name: "Fruits", image: "/genral_images/fruits.png" },
+  { id: "vegetables", name: "Vegetables", image: "/genral_images/vegetables.png" },
+  { id: "fresh_nuts", name: "Fresh Nuts", image: "/genral_images/fresh_nuts.png" },
+  { id: "species", name: "Species", image: "/genral_images/spices.png" },
+  { id: "dairy", name: "Dairy", image: "/genral_images/dairy.png" },
+  { id: "meat", name: "Meat", image: "/genral_images/meat.png" },
 ];
 
 const bgColors = [

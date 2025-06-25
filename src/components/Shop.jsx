@@ -5,28 +5,28 @@ import { useNavigate } from 'react-router-dom';
 // Sample category-wise products
 const allProducts = {
   fruits: [
-    { name: "Apple", price: 300, image: "/assets/fruits/apple.png" },       // per kg
-    { name: "Banana", price: 150, image: "/assets/fruits/banana.png" },     // dozen
-    { name: "Orange", price: 250, image: "/assets/fruits/orange.png" },     // per kg
-    { name: "Grapes", price: 400, image: "/assets/fruits/grape.png" },      // per kg
+    { name: "Apple", price: 300, image: "/fruits/apple.png" },       // per kg
+    { name: "Banana", price: 150, image: "/fruits/banana.png" },     // dozen
+    { name: "Orange", price: 250, image: "/fruits/orange.png" },     // per kg
+    { name: "Grapes", price: 400, image: "/fruits/grape.png" },      // per kg
   ],
   vegetables: [
-    { name: "Carrot", price: 100, image: "/assets/carrot.png" },
-    { name: "Tomato", price: 80, image: "/assets/tomato.png" },
-    { name: "Broccoli", price: 300, image: "/assets/broccoli.png" },
-    { name: "Lettuce", price: 150, image: "/assets/iceberg.png" },
+    { name: "Carrot", price: 100, image: "genral_images/Carrot.png" },
+    { name: "Tomato", price: 80, image: "genral_images/tomato.png" },
+    { name: "Broccoli", price: 300, image: "/genral_images/Broccoli.png" },
+    { name: "Lettuce", price: 150, image: "genral_images/Iceberg.png" },
   ],
   nuts: [
-    { name: "Almonds", price: 1800, image: "/assets/nuts/almond.png" },     // per kg
-    { name: "Cashews", price: 2000, image: "/assets/nuts/cashchews.png" },  // per kg
-    { name: "Walnuts", price: 1600, image: "/assets/nuts/walnut.png" },
-    { name: "Pistachios", price: 2200, image: "/assets/nuts/pistacheos.png" },
+    { name: "Almonds", price: 1800, image: "/nuts/almond.png" },     // per kg
+    { name: "Cashews", price: 2000, image: "/nuts/cashchews.png" },  // per kg
+    { name: "Walnuts", price: 1600, image: "/nuts/walnut.png" },
+    { name: "Pistachios", price: 2200, image: "/nuts/pistacheos.png" },
   ],
   spices: [
-    { name: "Black Pepper", price: 1200, image: "/assets/species/black_pepper.png" },
-    { name: "Turmeric", price: 500, image: "/assets/species/turmeric.png" },
-    { name: "Cinnamon", price: 1000, image: "/assets/species/cinnamon.png" },
-    { name: "Cloves", price: 1600, image: "/assets/species/cloves.png" },
+    { name: "Black Pepper", price: 1200, image: "/species/black_pepper.png" },
+    { name: "Turmeric", price: 500, image: "/species/turmeric.png" },
+    { name: "Cinnamon", price: 1000, image: "/species/cinnamon.png" },
+    { name: "Cloves", price: 1600, image: "/species/cloves.png" },
   ],
 };
 

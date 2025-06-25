@@ -39,7 +39,7 @@ const AboutUs = () => {
         }}
         viewport={{ once: true }}
       >
-        <img src="/assets/vegetables.png" alt="Accredited Farmers" className="w-full rounded-2xl" />
+        <img src="/genral_images/vegetables.png" alt="Accredited Farmers" className="w-full rounded-2xl" />
       </motion.div>
 
       {/* Right Side */}
