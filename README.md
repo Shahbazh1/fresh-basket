@@ -1,16 +1,25 @@
-<<<<<<< HEAD
-# React + Vite
+# 🥦 Fresh Basket - Online Fruit & Vegetable Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fresh Basket is a beautifully designed web app for browsing and ordering fresh fruits and vegetables online. Built with **React**, **Firebase**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🛒 Add items to cart (single or multiple)
+- ✅ Secure order placement with buyer details
+- 🔐 Firebase authentication
+- 📦 Admin panel to view and update order status
+- 📬 Email-based order tracking for users
+- 🌐 Responsive UI for mobile and desktop
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
+- React + Vite
+- Firebase (Firestore & Auth)
+- Tailwind CSS
+- React Router
 
-## Expanding the ESLint configuration
+## 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# fresh-basket
->>>>>>> 70f94ce4878637c4ced3ece65b1d4c96781b4fd8
+```bash
+git clone https://github.com/Shahbazh1/fresh-basket.git
+cd fresh-basket
+npm install
+npm run dev
